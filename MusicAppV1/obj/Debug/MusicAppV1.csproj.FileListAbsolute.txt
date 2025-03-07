@@ -1,0 +1,15 @@
+C:\Users\neryc\source\repos\MusicAppV1\bin\Debug\MusicAppV1.exe.config
+C:\Users\neryc\source\repos\MusicAppV1\bin\Debug\MusicAppV1.exe
+C:\Users\neryc\source\repos\MusicAppV1\bin\Debug\MusicAppV1.pdb
+C:\Users\neryc\source\repos\MusicAppV1\bin\Debug\BotonesDLL.dll
+C:\Users\neryc\source\repos\MusicAppV1\bin\Debug\CustomControllerMusic.dll
+C:\Users\neryc\source\repos\MusicAppV1\bin\Debug\BotonesDLL.pdb
+C:\Users\neryc\source\repos\MusicAppV1\bin\Debug\CustomControllerMusic.pdb
+C:\Users\neryc\source\repos\MusicAppV1\obj\Debug\MusicAppV1.csproj.AssemblyReference.cache
+C:\Users\neryc\source\repos\MusicAppV1\obj\Debug\MusicAppV1.Form1.resources
+C:\Users\neryc\source\repos\MusicAppV1\obj\Debug\MusicAppV1.Properties.Resources.resources
+C:\Users\neryc\source\repos\MusicAppV1\obj\Debug\MusicAppV1.csproj.GenerateResource.cache
+C:\Users\neryc\source\repos\MusicAppV1\obj\Debug\MusicAppV1.csproj.CoreCompileInputs.cache
+C:\Users\neryc\source\repos\MusicAppV1\obj\Debug\MusicAppV1.csproj.Up2Date
+C:\Users\neryc\source\repos\MusicAppV1\obj\Debug\MusicAppV1.exe
+C:\Users\neryc\source\repos\MusicAppV1\obj\Debug\MusicAppV1.pdb
